@@ -1,0 +1,9 @@
+pymupdf
+openai
+python-dotenv
+scikit-learn
+spacy
+streamlit
+plotly
+pip install -U langchain langchain-community google-generativeai openai pandas PyPDF2
+pip install -U langchain-openai
